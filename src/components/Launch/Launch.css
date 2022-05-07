@@ -1,0 +1,25 @@
+.launch{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 87vh;
+}
+
+.launch .info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px 20px;
+    width: 50%;
+    box-shadow: 0px 0px 10px 0px #6b6b6b !important;
+    text-align: center;
+}
+
+@media screen and (max-width: 500px) {
+    .launch .info {
+        width: 70%;
+    }
+}

@@ -1,0 +1,25 @@
+.launchpads{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 400px;
+    height: 280px;
+    margin: 20px 10px;
+    box-shadow: 0px 0px 15px 0px #6b6b6b !important;
+}
+
+.launch-link{
+    text-decoration: none !important;
+    text-align: center;
+}
+
+.link1{
+    color: grey !important;
+}
+
+.link1:hover{
+    text-decoration: underline;
+}
