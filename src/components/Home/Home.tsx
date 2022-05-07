@@ -44,7 +44,7 @@ const Home = () => {
                         <Typography gutterBottom fontSize="18px" component="div" color="white">
                             {element.full_name}
                         </Typography>
-                        <Typography variant="body2" color="white" margin="12px 0">
+                        <Typography variant="body2" color="rgb(169 169 169)" margin="12px 0">
                             {element.details.slice(0,85)}...
                         </Typography>
                         <Typography gutterBottom fontSize="17px" variant="body2" component="div" color="white" margin="10px 0">
