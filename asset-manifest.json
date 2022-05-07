@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SpaceX/static/css/main.3bdb373d.css",
-    "main.js": "/SpaceX/static/js/main.49f0b954.js",
+    "main.css": "/SpaceX/static/css/main.2325de27.css",
+    "main.js": "/SpaceX/static/js/main.2d3668d3.js",
     "static/js/787.c30a6e17.chunk.js": "/SpaceX/static/js/787.c30a6e17.chunk.js",
     "index.html": "/SpaceX/index.html",
-    "main.3bdb373d.css.map": "/SpaceX/static/css/main.3bdb373d.css.map",
-    "main.49f0b954.js.map": "/SpaceX/static/js/main.49f0b954.js.map",
+    "main.2325de27.css.map": "/SpaceX/static/css/main.2325de27.css.map",
+    "main.2d3668d3.js.map": "/SpaceX/static/js/main.2d3668d3.js.map",
     "787.c30a6e17.chunk.js.map": "/SpaceX/static/js/787.c30a6e17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bdb373d.css",
-    "static/js/main.49f0b954.js"
+    "static/css/main.2325de27.css",
+    "static/js/main.2d3668d3.js"
   ]
 }
